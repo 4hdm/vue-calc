@@ -28,7 +28,7 @@
 
 <div align="center">
   <p><b>Tampilan Antarmuka (UI) VueCalc Pro</b></p>
-  <img src="https://via.placeholder.com/600x350/0f172a/38bdf8?text=Screenshot+Aplikasi+VueCalc+Pro" alt="Screenshot Aplikasi" width="80%" />
+  <img src= <img width="1678" height="822" alt="Cuplikan layar 2026-10-20 164839" src="https://github.com/user-attachments/assets/d33933aa-23c3-479d-8935-9d0bb085a9cb" />
   <p><i>*Contoh tempat menaruh screenshot antarmuka aplikasi.*</i></p>
 </div>
 
