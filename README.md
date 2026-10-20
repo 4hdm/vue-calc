@@ -1,58 +1,42 @@
+# 🔬 VueCalc Pro - Scientific Calculator
+
 <div align="center">
 
-  <!-- Logo / Header Icon -->
-  <img src="public/foto profil.png" alt="Ahdam Ashari" width="120" style="border-radius: 50%;" />
+<img src="https://img.shields.io/badge/Vue.js-3.x-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-3.x-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" />
 
-  # 🚀 Portfolio Website - Ahdam Ashari
-
-  **Sebuah aplikasi web portofolio personal yang interaktif, responsif, dan modern.**
-
-  [![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-  [![Vite](https://img.shields.io/badge/Vite-5.x-646cff?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-  [![License](https://img.shields.io/badge/License-MIT-green.style=for-the-badge)](LICENSE)
-
-  [🌐 Live Demo](https://4hdm.github.io) · [🐛 Laporkan Bug](https://github.com/4hdm/portfolio/issues) · [✨ Ajukan Fitur](https://github.com/4hdm/portfolio/issues)
+*Kalkulator saintifik modern dan interaktif yang dibangun menggunakan Vue 3 (Composition API) dan Tailwind CSS.*
 
 </div>
 
 ---
 
-## 📖 Tentang Proyek
+## 📖 1. Penjelasan Singkat Fungsi Aplikasi
+**VueCalc Pro** adalah aplikasi web kalkulator modern berbasis *Vue.js* yang dirancang untuk memenuhi kebutuhan perhitungan dasar hingga tingkat lanjut (saintifik). 
 
-Website portofolio ini dirancang untuk menampilkan profil profesional, riwayat pendidikan, keahlian teknis (*tech stack*), proyek-proyek pilihan, serta pengalaman kerja saya sebagai **Junior Frontend & Backend Developer**. 
-
-Dibuat menggunakan **Vue 3 (Composition API)** dan **Tailwind CSS**, portofolio ini memberikan pengalaman pengguna yang cepat, mulus, dan *mobile-friendly*.
-
-### ✨ Fitur Utama
-
-- 🌙 **Dark / Light Mode**: Fitur pergantian tema terang dan gelap secara *real-time*.
-- 🎯 **Filter Keahlian & Proyek**: Memudahkan pengunjung memfilter *tech stack* dan jenis proyek berdasarkan kategori.
-- 📱 **Desain Fully Responsive**: Tampilan optimal di berbagai ukuran layar (Desktop, Tablet, & Smartphone).
-- 🖼️ **Modal Detail Proyek**: Pop-up interaktif untuk melihat deskripsi lengkap, *tags*, serta tautan *live demo* dan repository.
-- 📬 **Formulir Kontak**: Antarmuka interaktif bagi pengunjung yang ingin berdiskusi atau menawarkan kerja sama.
+**Fitur & Fungsi Utama:**
+* **Perhitungan Aritmatika & Saintifik:** Mendukung operasi matematika dasar (+, -, ×, ÷, %), serta fungsi tingkat lanjut seperti akar kuadrat ($\sqrt{x}$), pangkat ($x^2$), logaritma (`log`, `ln`), dan trigonometri (`sin`, `cos`, `tan`).
+* **Konstanta Matematika:** Menyediakan akses cepat untuk nilai konstanta universal seperti $\pi$ (Pi) dan $e$ (Euler).
+* **Riwayat Perhitungan (History):** Menyimpan riwayat perhitungan secara otomatis agar pengguna dapat melacak kembali rumus atau hasil sebelumnya.
+* **Dukungan Pintasan Keyboard:** Memungkinkan pengguna melakukan input angka dan operasi langsung melalui *keyboard* fisik komputer demi kenyamanan dan kecepatan penggunaan.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🖼️ 2. Tampilan Aplikasi (Screenshot)
+*Ganti tautan di bawah ini dengan gambar/screenshot tampilan aplikasi kamu yang sebenarnya (kamu bisa memasukkan file gambar ke folder repository GitHub lalu merujuk path-nya).*
 
-- **Frontend Framework**: [Vue 3](https://vuejs.org/) (`<script setup>`)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Icons**: [Lucide Vue Next](https://lucide.dev/)
-- **Build Tool**: [Vite](https://vitejs.dev/)
+<div align="center">
+  <p><b>Tampilan Antarmuka (UI) VueCalc Pro</b></p>
+  <img src="https://via.placeholder.com/600x350/0f172a/38bdf8?text=Screenshot+Aplikasi+VueCalc+Pro" alt="Screenshot Aplikasi" width="80%" />
+  <p><i>*Contoh tempat menaruh screenshot antarmuka aplikasi.*</i></p>
+</div>
 
 ---
 
-## 📂 Struktur Direktori Proyek
+## 🚀 3. Cara Menjalankan Project
+Pastikan komputer kamu sudah menginstal **Node.js**. Ikuti langkah-langkah di bawah ini untuk menjalankannya secara lokal:
 
-```text
-├── public/
-│   └── foto profil.png      # Foto profil & aset publik
-├── src/
-│   ├── assets/              # File CSS / Asset gambar pendukung
-│   ├── components/          # Komponen-komponen Vue
-│   ├── App.vue              # Main Vue Component / Single Page Portfolio
-│   └── main.js              # Entry point aplikasi
-├── index.html               # HTML Template
-├── package.json             # Dependencies & script runner
-└── tailwind.config.js       # Konfigurasi Tailwind CSS
+1. Clone atau unduh repositori ini:
+   ```bash
+   git clone [https://github.com/username/nama-repo.git](https://github.com/username/nama-repo.git)
