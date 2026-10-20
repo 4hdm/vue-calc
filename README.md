@@ -34,9 +34,16 @@
 
 ---
 
-## 🚀 3. Cara Menjalankan Project
-Pastikan komputer kamu sudah menginstal **Node.js**. Ikuti langkah-langkah di bawah ini untuk menjalankannya secara lokal:
+## 🛠️ 4. Teknologi yang Digunakan
+1. Vue.js 3 (Composition API & <script setup>)
+2. Tailwind CSS (Styling & Modern UI Design)
+3. JavaScript ES6+ (Math Logic & Keyboard Event Listeners)
 
-1. Clone atau unduh repositori ini:
-   ```bash
-   git clone [https://github.com/username/nama-repo.git](https://github.com/username/nama-repo.git)
+## 👨‍💻 5. Informasi Pengembang
+
+| Komponen | Keterangan |
+| :--- | :--- |
+| **Nama Pembuat** | [Nama Lengkap Anda] |
+| **Institusi / Kampus** | Sekolah Tinggi Teknologi Bontang (STITEK Bontang) |
+| **Program Studi** | Teknik Informatika |
+| **Status Project** | Tugas / Pengembangan Aplikasi Mandiri Vue.js |
